@@ -1,0 +1,1 @@
+&COPY;[2009-2022] Copyrights by <a target="_blank" href="http://google.com">SHRUTI TECHNOSOLUTIONS PVT LTD</a>
